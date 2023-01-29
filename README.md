@@ -1239,6 +1239,36 @@ A combination is all about grouping. The number of different groups which can be
 ![image](https://user-images.githubusercontent.com/99672298/191480015-a22f7808-d8fa-47be-8ba4-483ee8bc2cbb.png)
 
 ___
+## Author
+
+<table>
+<tr>
+<td>
+     <img src="https://avatars.githubusercontent.com/u/111117746?s=400&u=ff9443bb4c65605c40b3e9d8344ce4701ee29bc4&v=4">
+     
+     rohitshewale302@gmail.com
+
+<p align="center">
+<a href = "https://github.com/rohitshewale302"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/rohit-shewale-b71877239/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
+
+<div style="display:fill;
+            border-radius: false;
+            border-style: solid;
+            border-color:#000000;
+            border-style: false;
+            border-width: 2px;
+            color:#CF673A;
+            font-size:15px;
+            font-family: Georgia;
+            background-color:#E8DCCC;
+            text-align:center;
+            letter-spacing:0.1px;
+            padding: 0.1em;">
 
 
 
